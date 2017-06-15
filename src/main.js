@@ -4,7 +4,7 @@
   const FirstConsistentlyInteractiveDetector =
         window.__tti_modules.FirstConsistentlyInteractiveDetector.FirstConsistentlyInteractiveDetector;
   const firstConsistentlyInteractiveDetector =
-        new FirstConsistentlyInteractiveDetector({debugMode: true});
+        new FirstConsistentlyInteractiveDetector({debugMode: false});
 
   if (document.readyState === "complete") {
     console.log("Document already sufficiently loaded. Scheduling FirstInteractive timer tasks.");
