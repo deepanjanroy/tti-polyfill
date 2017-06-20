@@ -1,7 +1,7 @@
 Time to Interactive Polyfill
 ============================
 
-Status: In development.
+THIS REPOSITORY IS NO LONGER MAINTAINED. Use [the official TTI polyfill](https://github.com/GoogleChrome/tti-polyfill).
 
 # Usage
 
